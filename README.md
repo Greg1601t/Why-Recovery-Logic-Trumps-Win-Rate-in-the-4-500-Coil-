@@ -1,0 +1,2 @@
+Strategy 
+Gold EA 
