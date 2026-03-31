@@ -1,0 +1,5 @@
+# Why-Recovery-Logic-Trumps-Win-Rate-in-the-4-500-Coil-
+Recent XAUUSD volatility has been a graveyard for "high-frequency breakout" bots. Why? Because many require 3-4 wins just to recover a single Stop Loss. In a choppy market like we’ve seen the last 48 hours ($4,480 average), RR (Risk-to-Reward) efficiency is king. I’ve noticed that strategies focusing on "low frequency, high recovery" 
+Current Observation: Scalping less than 4 trades a day is currently safer than the 6-8 trade "shotgun" approach.
+Backtest Note: Be careful with "perfect" backtests you see floating around for Gold. If the Drawdown (DD) doesn't account for the recent $1,000 weekly ranges, the EA will likely fail in live conditions.
+Are you prioritizing trade count or recovery efficiency for your April Prop Firm challenges? Let’s discuss in the comments.
